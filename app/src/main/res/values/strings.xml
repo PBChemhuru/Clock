@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clock Application</string>
+    <string name="switchc_text">Set Clock On/Off</string>
+</resources>
